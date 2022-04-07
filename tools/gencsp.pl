@@ -29,7 +29,7 @@
 
 use strict;
 use warnings;
-use encoding 'utf8'; # ä
+#use encoding 'utf8'; # ä
 
 use English qw( -no_match_vars ) ; # Avoids regex performance penalty
 use Carp;
